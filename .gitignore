@@ -1,0 +1,5 @@
+.vs/
+packages/
+
+ExamplePlugin/obj/
+ExamplePlugin/bin/
